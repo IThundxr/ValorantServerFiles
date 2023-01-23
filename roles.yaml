@@ -2,7 +2,7 @@
   id: rank-roles
   title: Rank Roles
   description: "What is your rank"
-  template: "**»** {MENTION}"
+  template: "**»** {MENTION} {EMOJI}"
 
   roles:
     1066883350649905222:
