@@ -7,21 +7,31 @@
   roles:
     1066883350649905222:
       description: Radiant
+      emoji: <:Radiant:1066888475560902696>
     1066883268521246740:
       description: Immortal
+      emoji: <:Immortal:1066888470569701466>
     1066883121418608650:
       description: Ascendant
+      emoji: <:Ascendant:1066888465284862053>
     1066883083380457623:
       description: Diamond
+      emoji: <:Diamond:1066888467814043699>
     1066882938005880924:
       description: Platinum
+      emoji: <:Platinum:1066888473803497603>
     1066882905818791936:
       description: Gold
+      emoji: <:Gold:1066888469240094820>
     1066882815477694574:
       description: Silver
+      emoji: <:Silver:1066888476601106452>
     1066882692160962600:
       description: Bronze
+      emoji: <:Bronze:1066888466887102524>
     1066882452888490124:
       description: Iron
+      emoji: <:Iron:1066888472318705756>
     1066884308297580644:
       description: Unranked
+      emoji: <:Unranked:1066903641224646678>
