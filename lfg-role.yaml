@@ -1,9 +1,0 @@
-- type: roles
-  id: lfg-role
-  title: Looking For Group Role
-  description: "Add this role to yourself if you wanna be pinged when someone needs a queue partner"
-  template: "**»** {MENTION}"
-
-  roles:
-    1067187652635398235:
-      description: Looking For Group
