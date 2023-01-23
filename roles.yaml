@@ -1,7 +1,7 @@
 - type: roles
   id: rank-roles
   title: Rank Roles
-  description: "What is your rank in VALORANT?"
+  description: "What is your rank"
   template: "**»** {MENTION}"
 
   roles:
